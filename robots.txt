@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://cymor-cymor-L5RTCk.vercel.app/sitemap.xml
